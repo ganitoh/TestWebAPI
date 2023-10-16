@@ -1,0 +1,12 @@
+C:\Users\vadik\source\repos\TestWebAPI\TestWebAPI.Domain\bin\Debug\net6.0\TestWebAPI.Domain.deps.json
+C:\Users\vadik\source\repos\TestWebAPI\TestWebAPI.Domain\bin\Debug\net6.0\TestWebAPI.Domain.dll
+C:\Users\vadik\source\repos\TestWebAPI\TestWebAPI.Domain\bin\Debug\net6.0\TestWebAPI.Domain.pdb
+C:\Users\vadik\source\repos\TestWebAPI\TestWebAPI.Domain\obj\Debug\net6.0\TestWebAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\vadik\source\repos\TestWebAPI\TestWebAPI.Domain\obj\Debug\net6.0\TestWebAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadik\source\repos\TestWebAPI\TestWebAPI.Domain\obj\Debug\net6.0\TestWebAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\vadik\source\repos\TestWebAPI\TestWebAPI.Domain\obj\Debug\net6.0\TestWebAPI.Domain.AssemblyInfo.cs
+C:\Users\vadik\source\repos\TestWebAPI\TestWebAPI.Domain\obj\Debug\net6.0\TestWebAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vadik\source\repos\TestWebAPI\TestWebAPI.Domain\obj\Debug\net6.0\TestWebAPI.Domain.dll
+C:\Users\vadik\source\repos\TestWebAPI\TestWebAPI.Domain\obj\Debug\net6.0\refint\TestWebAPI.Domain.dll
+C:\Users\vadik\source\repos\TestWebAPI\TestWebAPI.Domain\obj\Debug\net6.0\TestWebAPI.Domain.pdb
+C:\Users\vadik\source\repos\TestWebAPI\TestWebAPI.Domain\obj\Debug\net6.0\ref\TestWebAPI.Domain.dll

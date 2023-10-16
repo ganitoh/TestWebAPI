@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UMIW2L0aOEECjA0ZQ9VBs5kscHR/1l5HsQI7Qe525aQ=",
+  "Source": "TestWebAPI.WebUI",
+  "BasePath": "_content/TestWebAPI.WebUI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
